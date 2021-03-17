@@ -899,8 +899,11 @@ ul.tabs-nav .tab-nav.active {
     z-index:1;
 }
 
+
 .barfiller .tipWrap {
     display:none;
+    
+   
 }
 
 .barfiller .tip {
